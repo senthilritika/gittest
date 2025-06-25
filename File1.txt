@@ -1,2 +1,4 @@
 Main branch changes
 File 1
+
+Stash changes
